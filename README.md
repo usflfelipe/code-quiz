@@ -6,7 +6,7 @@ In this project we had the challenge of making a JavaScript fundamentals quiz th
 
 ## Deployed Application Link
 
-*/ ADD LINK*
+https://usflfelipe.github.io/code-quiz/
 
 ## Screenshot
 
